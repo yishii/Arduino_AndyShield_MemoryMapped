@@ -1,0 +1,7 @@
+This is Arduino sketch designed for work with Andy Shield - Android-controlled RC Toy.
+The communication protocol employed for this is Memory-mapped protocol.
+
+
+
+Author : Yasuhiro ISHII
+E-mail : ishii.yasuhiro@gmail.com
